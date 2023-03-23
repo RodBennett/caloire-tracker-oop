@@ -1,7 +1,7 @@
 {
-  "name": "src",
+  "name": "Calorie Tracker",
   "version": "1.0.0",
-  "description": "",
+  "description": "App to track calories, meals and workouts",
   "main": "app.js",
   "scripts": {
     "build": "webpack",

@@ -122,7 +122,7 @@ class App {
     limit.value = "";
 
     const modalEl = document.getElementById("limit-modal");
-    const bsModal = new Modal.getInstance(modalEl);
+    const bsModal = Modal.getInstance(modalEl);
     bsModal.hide();
   }
 }
