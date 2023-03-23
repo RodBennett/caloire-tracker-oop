@@ -10,7 +10,7 @@ This project was created alongisde [Traversy Media's](https://www.traversymedia.
 
 1. Clone repo to your machine
 2. Run ```npm i``` to install dependencies
-3. Run ```run run dev``` to start server
+3. Run ```npm run dev``` to start server
 
 ## Technologies
 - HTML
